@@ -1,0 +1,5 @@
+.vscode
+env
+gitignore
+__pycache__
+chrome-data
